@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/react-gh-pages/static/js/main.4e61d0ed.js",
+    "static/media/mxn_symbol.png": "/react-gh-pages/static/media/mxn_symbol.be02f4c43bae1c1b6161.png",
+    "static/media/usd_symbol.png": "/react-gh-pages/static/media/usd_symbol.289b4d8a78632fbe1726.png",
+    "index.html": "/react-gh-pages/index.html",
+    "main.4e61d0ed.js.map": "/react-gh-pages/static/js/main.4e61d0ed.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.4e61d0ed.js"
+  ]
+}

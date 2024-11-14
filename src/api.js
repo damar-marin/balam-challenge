@@ -14,8 +14,8 @@ const appStyles = {
     display: "flex",
     justifyContent: "center",
     alignItems: "center",
-    minHeight: "100vh", 
-    background: "linear-gradient(to top, gray, white)", 
+    minHeight: "100vh",
+    backgroundColor: "#f0f2f5",
   },
 };
 

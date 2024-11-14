@@ -1,7 +1,8 @@
 
 # Currency Quotation Component
 
-This project is a React-based component that calculates and displays the exchange rates from USD to two currencies: Colombian Peso (COP) and Mexican Peso (MXN).
+This project is a React-based component that calculates and displays the exchange rates from USD to two currencies: Colombian Peso (COP) and Mexican Peso (MXN). 
+The main logic for the component can be found over at src/components/ExchangeComponent.js
 
 ## Features
 
